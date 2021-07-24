@@ -1,47 +1,26 @@
-# Session 13 - Object Detection using Yolov3
+<br/>
+<h1 align="center">Session 11: YOLO V1 V2 V3 V4
+<br/>
+<!-- toc -->
+    <br>
 
-## Assignment-A Yolov3 with OpenCV
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CvEqLpFofINODcuPut8sEQpCYtdzUU6S?usp=sharing)
-
-Detecting objects in an image where there is a person and an object present in the image.<br>
-Note: The object should be present in the COCO classes.
-
-### Result
-This is Happy Singh             |  This is Vishwajeet Pratap Singh
-:-------------------------:|:-------------------------:
-![](images/Happy_image_opencv.jpg)  |  ![](images/Vishwa_image_opencv.jpg)
-
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/RajamannarAanjaram/badges/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/RajamannarAanjaram/badges)
+    <br>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
 
+### Contributors
 
-## Assignment-B Yolov3 Object Detection on Custom Dataset
+<p align="center"> <b>Team - 6</b> <p>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wkNBudlLV7NKsz4oBAuP1f4XaUOJpw-d?usp=sharing)
+| <centre>Name</centre> | <centre>Mail id</centre> |
+| ------------ | ------------- |
+| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
+| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
+| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
+| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
 
-The assignment aim to perform object detection on custom dataset using Yolov3.
-Custom data included 4 classes : Hardhat, vest, mask, boots.
-
-### Result
-
-Click [here](https://youtu.be/L2peHJ240pw) to play the output video
-
-
-### Custom Dataset Preparation
-
-- Image Annotation
-    - Annotate the custom data using [this](https://github.com/miki998/YoloV3_Annotation_Tool) annotation tool.
-
-### Using already annotated data
-
-
-- Using PPE Construction Dataset
-    - Download the data from [here](https://drive.google.com/drive/folders/1qlf7LwCtulLHC71MrHg8RZUbVR5PJcFw?usp=sharing) and paste place it [this](YoloV3/data) directory.
-
-### Downloading pretrained weights
-
-- Download the file named `yolov3-spp-ultralytics.pt` from [here](https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0) and place it in [this](YoloV3/weights) directory.
-
-## Group Members
-- Vishwajeet Pratap Singh (vishwajeet.pratapsingh2207@gmail.com)
-- Happy Singh (hsingh0805@gmail.com)
+<!-- toc -->
