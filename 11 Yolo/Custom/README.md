@@ -25,5 +25,14 @@
 
 <!-- toc -->
 
+Yolov3 Object Detection on Custom Dataset
+
+### Downloading pretrained weights
+
+- Download the file named `yolov3-spp-ultralytics.pt` from [here](https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0) and place it in [this](YoloV3/weights) directory.
+
+
+[Youtube Video](https://youtu.be/yznqO0pYEYY)
+
 
 [Youtube Video](https://youtu.be/yznqO0pYEYY)
