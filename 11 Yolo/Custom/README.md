@@ -39,20 +39,19 @@ run `main.py` to load the annotation tool and `process.py` to create `test.txt` 
    - Download the newly trained weights `last.pt` under weights folder for future inference. 
    - For video annotaion use [ffmpeg](https://en.wikibooks.org/wiki/FFMPEG_An_Intermediate_Guide/image_sequence) to extract images from video.<br/>
     
-    ```
-        ffmpeg -i video.webm image-%03d.png
-    ```
+    ffmpeg -i video.webm image-%03d.png
+
    -  Use the `last.pt` on video frames to make the prediction. Use [ffmpeg](https://en.wikibooks.org/wiki/FFMPEG_An_Intermediate_Guide/image_sequence) to convert images into video again.<br/>
     
-    ```
-        ffmpeg -i image-%03d.png video.webm
-    ```
+    
+    ffmpeg -i image-%03d.png video.webm
+    
     
 <br/>
     
-[Youtube Video](https://youtu.be/yznqO0pYEYY) <br/>
-[Model Training notebook](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/CustomYolo.ipynb)<br/>
-[Yolo Video annotation](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/YoloVideoPrediction.ipynb)
+YoloV3 Trained:- [Youtube Video](https://youtu.be/yznqO0pYEYY) <br/>
+Train Notebook:- [Model Training notebook](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/CustomYolo.ipynb)<br/>
+Yolo Video training:- [Yolo Video annotation](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/YoloVideoPrediction.ipynb)
 
     
     
