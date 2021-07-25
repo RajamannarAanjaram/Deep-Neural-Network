@@ -49,11 +49,28 @@ run `main.py` to load the annotation tool and `process.py` to create `test.txt` 
     
 <br/>
     
+### Training Output
+    
+<p align="center">
+  <img width="500" height="400" src="./images/out1.jpg">
+  <img width="400" height="400" src="./images/out2.jpg">
+<p/>
+<!-- <p align="center">
+  <img width="500" height="500" src="./images/out2.jpg">
+<p/> -->
+<p align="center">
+  <img width="500" height="500" src="./images/out3.jpg">
+  <img width="400" height="500" src="./images/out4.jpg">
+<p/>
+<!-- <p align="center">
+  <img width="500" height="500" src="./images/out4.jpg">
+</p> -->
+    
 YoloV3 Trained:- [Youtube Video](https://youtu.be/yznqO0pYEYY) <br/>
 Train Notebook:- [Model Training notebook](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/CustomYolo.ipynb)<br/>
 Yolo Video training:- [Yolo Video annotation](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/YoloVideoPrediction.ipynb)
 
-    
+
     
 
 ### Contributors
@@ -64,3 +81,7 @@ Yolo Video training:- [Yolo Video annotation](https://github.com/RajamannarAanja
 | <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
 | <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
 | <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    | 
+    
+    
+### References
+Yotube video use [here](https://www.youtube.com/watch?v=Nap8t4s0UjQ)
