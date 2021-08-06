@@ -103,8 +103,9 @@ ViT(
   )
 ) 
 ```
-**Training logs**
-    Model is trained for 20 epochs and only first 5 epoch logs are shown.
+**Training logs**<br/>
+
+Model is trained for 20 epochs and only first 5 epoch logs are shown.
 ```
 HBox(children=(FloatProgress(value=0.0, max=313.0), HTML(value='')))
 Epoch : 1 - loss : 0.6979 - acc: 0.5000 - val_loss : 0.6959 - val_acc: 0.5028
@@ -125,7 +126,8 @@ Epoch : 5 - loss : 0.6936 - acc: 0.5045 - val_loss : 0.6924 - val_acc: 0.5342
 Notebook [link](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogViT.ipynb):- [CatDogViT](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogViT.ipynb)
     
 ### Model using timm library- Transfer Learing
-**Model Parameters**
+ 
+**Model Parameters**<br/>
 In this model the image is split into 14x14 patches.
 
 ```
@@ -138,7 +140,7 @@ patch_size=16
 num_classes=2
 channels=3
 ```
-**Model Architecture**
+**Model Architecture**<br/>
 
 By Default while importing, the package has target of 1000 classes. Changing it to two using the floowing code`model.head = nn.Linear(768, 2)`
     
@@ -192,12 +194,37 @@ By Default while importing, the package has target of 1000 classes. Changing it 
       (pre_logits): Identity()
       (head): Linear(in_features=768, out_features=2, bias=True)
 ```
-**Training Logs**
-Ataching last 5 epochs
+**Training Logs**<br/>
+ 
+Attaching last 5 epochs
 ```
+100%|██████████| 313/313 [07:48<00:00,  1.50s/it]
+  0%|          | 0/313 [00:00<?, ?it/s]
+Epoch : 15 - loss : 0.0361 - acc: 0.9854 - val_loss : 0.0550 - val_acc: 0.9792
 
+100%|██████████| 313/313 [07:47<00:00,  1.49s/it]
+  0%|          | 0/313 [00:00<?, ?it/s]
+ Epoch : 16 - loss : 0.0318 - acc: 0.9872 - val_loss : 0.0543 - val_acc: 0.9816
+
+100%|██████████| 313/313 [07:45<00:00,  1.49s/it]
+  0%|          | 0/313 [00:00<?, ?it/s]
+Epoch : 17 - loss : 0.0336 - acc: 0.9864 - val_loss : 0.0620 - val_acc: 0.9788
+
+100%|██████████| 313/313 [07:44<00:00,  1.48s/it]
+  0%|          | 0/313 [00:00<?, ?it/s]
+Epoch : 18 - loss : 0.0312 - acc: 0.9882 - val_loss : 0.0515 - val_acc: 0.9802
+
+100%|██████████| 313/313 [07:45<00:00,  1.49s/it]
+  0%|          | 0/313 [00:00<?, ?it/s]
+Epoch : 19 - loss : 0.0326 - acc: 0.9873 - val_loss : 0.0796 - val_acc: 0.9757
+
+100%|██████████| 313/313 [07:44<00:00,  1.48s/it]
+Epoch : 20 - loss : 0.0329 - acc: 0.9874 - val_loss : 0.0591 - val_acc: 0.9778
 ```
-Notebook link:- CatDogs-TransferLearning.ipynb
+                                       
+Notebook [link](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogs_TransferLearning.ipynb):- [CatDogs-TransferLearning.ipynb](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogs_TransferLearning.ipynb)
+                                       
+
 ### Contributors
     
 | <centre>Name</centre> | <centre>Mail id</centre> | 
