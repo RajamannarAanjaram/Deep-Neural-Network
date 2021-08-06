@@ -224,6 +224,10 @@ Epoch : 20 - loss : 0.0329 - acc: 0.9874 - val_loss : 0.0591 - val_acc: 0.9778
                                        
 Notebook [link](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogs_TransferLearning.ipynb):- [CatDogs-TransferLearning.ipynb](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogs_TransferLearning.ipynb)
                                        
+### References
+Timm package:
+library installation and model listing:- https://rwightman.github.io/pytorch-image-models/  <br/>
+ViT model building:- https://rwightman.github.io/pytorch-image-models/models/vision-transformer/
 
 ### Contributors
     
