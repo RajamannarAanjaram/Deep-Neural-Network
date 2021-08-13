@@ -116,7 +116,7 @@ Training Metrics
     
     
     
-### Referance
+### Reference
     
 - https://github.com/facebookresearch/detr
 - https://opensourcelibs.com/lib/finetune-detr
