@@ -113,3 +113,11 @@ Training Metrics
 | <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
 | <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
 | <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
+    
+    
+    
+### Referance
+    
+- https://github.com/facebookresearch/detr
+- https://opensourcelibs.com/lib/finetune-detr
+
