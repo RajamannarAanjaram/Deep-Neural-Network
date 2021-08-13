@@ -11,17 +11,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
-### Contributors
-
-<p align="center"> <b>Team - 6</b> <p>
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
 <!-- toc -->
 
 ## DETR
@@ -77,10 +66,50 @@ DETR uses both Encoder-Decoder block compared to ViT which only used the Encoder
 - The matching takes into consideration both the class labels (classification) and bounding boxes (regression)
 - Finally Hungarian loss is used to compute the cost of matching
 
+### Fine Tune DETR
+    
+DETR will be fine-tuned for **Balloon** custom dataset dataset is taken from [here](https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip). The balloon dataset is annotated in VIA format. However, to prepare the annotations for the model, DETR expects them to be in COCO format. There are 61 images in the training set, and 13 images in the validation set.
 
+The following Github [repo](https://github.com/RajamannarAanjaram/TSAI-Assignment/tree/master/14%20DETR/VIA2COCO) is used to convert annotations from VIA format to COCO format. 
 
-## Custom Notebook
+The directory structure should be as following:
+```
+path/to/coco/
+├ annotations/  # JSON annotations
+│  ├ annotations/custom_train.json
+│  └ annotations/custom_val.json
+├ train2017/    # training images
+└ val2017/      # validation images
+```
 
-Link :
+### Training Log
+
+Model Training log can be found [here](https://colab.research.google.com/drive/1Erj3Zh8GK8qtiAOm3t2uXwHXRBqeY305#scrollTo=I8qftNNVmJaF&line=4&uniqifier=1). The Model is ran for 300 epochs.
+
+### Custom Notebook
+
+Notebook Link : https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/14%20DETR/Object_Detection_DETR.ipynb <br/>
+Colab link : https://colab.research.google.com/drive/1Erj3Zh8GK8qtiAOm3t2uXwHXRBqeY305#scrollTo=I8qftNNVmJaF
 
 ### Model Results
+
+Training Metrics
+    
+![image](images/loss.png)
+![image](images/map.png)
+![image](images/class-error.png)
+    
+<p align="center">
+  <img title="Threshold of 0.9" width="400" height="400" src="./images/out09.png">
+  <img title="Threshold of 0.7" width="400" height="400" src="./images/out07.png">
+</p>
+    
+### Contributors
+
+    
+| <centre>Name</centre> | <centre>Mail id</centre> | 
+| ------------ | ------------- |
+| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
+| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
+| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
+| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
