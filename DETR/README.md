@@ -70,7 +70,7 @@ DETR uses both Encoder-Decoder block compared to ViT which only used the Encoder
     
 DETR will be fine-tuned for **Balloon** custom dataset dataset is taken from [here](https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip). The balloon dataset is annotated in VIA format. However, to prepare the annotations for the model, DETR expects them to be in COCO format. There are 61 images in the training set, and 13 images in the validation set.
 
-The following Github [repo](https://github.com/RajamannarAanjaram/TSAI-Assignment/tree/master/14%20DETR/VIA2COCO) is used to convert annotations from VIA format to COCO format. 
+The following Github [repo](./VIA2COCO) is used to convert annotations from VIA format to COCO format. 
 
 The directory structure should be as following:
 ```
@@ -88,8 +88,8 @@ Model Training log can be found [here](https://colab.research.google.com/drive/1
 
 ### Custom Notebook
 
-Notebook Link : https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/14%20DETR/Object_Detection_DETR.ipynb <br/>
-Colab link : https://colab.research.google.com/drive/1Erj3Zh8GK8qtiAOm3t2uXwHXRBqeY305#scrollTo=I8qftNNVmJaF
+Notebook Link : [Notebook](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/DETR/Object_Detection_DETR.ipynb) <br/>
+Colab link : [Notebook](https://colab.research.google.com/drive/1Erj3Zh8GK8qtiAOm3t2uXwHXRBqeY305#scrollTo=I8qftNNVmJaF)
 
 ### Model Results
 
