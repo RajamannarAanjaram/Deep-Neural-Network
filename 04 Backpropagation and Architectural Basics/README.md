@@ -1,18 +1,13 @@
-<br/>
-<h1 align="center">Session 4: Backpropagation and Architectural Basics</h1>
-<br/>
-
-> Note: This readme file explains only about the model architecture and its accuracy. Indepth explanation is under each folder for much more neat presentation.
-
-1. # Backpropagation
-[Readme](https://github.com/RajamannarAanjaram/Session4/blob/main/Backpropagation/README.md) - Readme file for Backpropagation<br> 
-[Excel](https://github.com/RajamannarAanjaram/Session4/blob/main/Backpropagation/Backpropagation.xlsx) - Excel file
-
-
-2. # Architectural Basics
-[Questions Readme](https://github.com/RajamannarAanjaram/Session4/blob/main/Architecture/README.md) - Readme file for Architectural basics<br>
-[Notebook](https://github.com/RajamannarAanjaram/Session4/blob/main/Architecture/assignemnt_4_solutions.ipynb) - Notebook link
-
+<br>
+<h1 align="center"> Backpropagation and Architectural Basics
+<br>
+    
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/RajamannarAanjaram/badges/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/RajamannarAanjaram/badges)
+    <br>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
 ## Model Initialization:
 
@@ -242,6 +237,13 @@ Epochs = 19
    <img src="./images/modelloss.png">
 </p>
 
+#### Backpropagation
+[Readme](https://github.com/RajamannarAanjaram/Session4/blob/main/Backpropagation/README.md) - Readme file for Backpropagation<br> 
+[Excel](https://github.com/RajamannarAanjaram/Session4/blob/main/Backpropagation/Backpropagation.xlsx) - Excel file
+
+#### Architectural Basics
+[Questions Readme](https://github.com/RajamannarAanjaram/Session4/blob/main/Architecture/README.md) - Readme file for Architectural basics<br>
+[Notebook](https://github.com/RajamannarAanjaram/Session4/blob/main/Architecture/assignemnt_4_solutions.ipynb) - Notebook link
 
 ## Reference Links
 [Kaggle Notebook]( https://www.kaggle.com/enwei26/mnist-digits-pytorch-cnn-99)
