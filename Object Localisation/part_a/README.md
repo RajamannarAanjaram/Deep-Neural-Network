@@ -1,6 +1,6 @@
-<br/>
+<br>
 <h1 align="center"> Object Localisation
-<br/>
+<br>
 <!-- toc -->
     <br>
     
@@ -10,6 +10,7 @@
     <br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
+    </h1>
     
 ## Problem Statement
 
