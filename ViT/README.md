@@ -1,17 +1,15 @@
-<br/>
+<br>
 <h1 align="center"> Vision Transformers - ViT
-<br/>
+<br>
 
-<!-- toc -->
- 
-    
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/RajamannarAanjaram/badges/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/RajamannarAanjaram/badges)
     <br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
-  
+</h1>
+
 ### Objective
 To train a **`ViT`** model for Cats and Dogs based on this [blog](https://analyticsindiamag.com/hands-on-vision-transformers-with-pytorch/).
     
@@ -123,7 +121,7 @@ HBox(children=(FloatProgress(value=0.0, max=313.0), HTML(value='')))
 Epoch : 5 - loss : 0.6936 - acc: 0.5045 - val_loss : 0.6924 - val_acc: 0.5342
 ```
     
-Notebook [link](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogViT.ipynb):- [CatDogViT](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogViT.ipynb)
+Notebook link:- [CatDogViT](./CatDogViT.ipynb)
     
 ### Model using timm library- Transfer Learing
  
@@ -222,7 +220,7 @@ Epoch : 19 - loss : 0.0326 - acc: 0.9873 - val_loss : 0.0796 - val_acc: 0.9757
 Epoch : 20 - loss : 0.0329 - acc: 0.9874 - val_loss : 0.0591 - val_acc: 0.9778
 ```
                                        
-Notebook [link](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogs_TransferLearning.ipynb):- [CatDogs-TransferLearning.ipynb](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/13%20ViT/Cat%20Dogs/CatDogs_TransferLearning.ipynb)
+Notebook link:- [CatDogs-TransferLearning.ipynb](./CatDogs_TransferLearning.ipynb)
                                        
 ### References
 Timm package:
