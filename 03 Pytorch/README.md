@@ -1,16 +1,5 @@
 # Session 3 - PyTorch
 
-<!-- toc -->
-#### TEAM - 6
-
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
-<!-- toc -->
 
 ### Problem Statement
 
