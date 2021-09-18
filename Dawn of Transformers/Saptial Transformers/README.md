@@ -47,7 +47,7 @@ Objective is to train a Spatial transformer on **`CIFAR-10`** dataset for 50 epo
  
 **Colab Notebook** [link](https://colab.research.google.com/drive/1KPC3hC1GiV-Cogv-yo8_7qzcV1DgheBW#scrollTo=sGlfCagJJSaD)<br/>
  
-**GitHub Notebook** [link](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/12%20Dawn%20of%20Transformers/Saptial%20Transformers/SpatialTransformer.ipynb)<br/>
+**GitHub Notebook** [link](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Dawn%20of%20Transformers/Saptial%20Transformers/SpatialTransformer.ipynb)<br/>
  
 
 ### Model Architecture
@@ -115,7 +115,7 @@ Test set: Average loss: 1.1545, Accuracy: 6000/10000 (60%)
 
 ```
 
-**complete model training and validation logs** can viewed [here](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/12%20Dawn%20of%20Transformers/Saptial%20Transformers/Logs.md)
+**complete model training and validation logs** can viewed [here](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Dawn%20of%20Transformers/Saptial%20Transformers/Logs.md)
  
 ### Model Results
  
