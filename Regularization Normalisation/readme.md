@@ -2,9 +2,10 @@
 <br/>
 <h1 align="center"> BATCH NORMALIZATION & REGULARIZATION
 <br/>
+</h1>
 
 ## Problem Statement
-        Implement normalisation (Batch Normalization, Layer Normalization, Group Normalization) and regularization (L1 - Lasso regression) techniques on  MNIST dataset.
+Implement normalisation (Batch Normalization, Layer Normalization, Group Normalization) and regularization (L1 - Lasso regression) techniques on  MNIST dataset.
 
 ## 1. What is your code all about:
 - We have considered the best model from our assignment 5. 
