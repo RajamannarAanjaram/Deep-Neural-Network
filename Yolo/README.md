@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 11: YOLO v1/v2/v3/v4
+<h1 align="center"> YOLO - You Look Only Once
 <br/>
 
 <!-- toc -->
