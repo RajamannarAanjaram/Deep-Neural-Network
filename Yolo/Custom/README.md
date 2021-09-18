@@ -67,21 +67,9 @@ run `main.py` to load the annotation tool and `process.py` to create `test.txt` 
 </p> -->
     
 YoloV3 Trained:- [Youtube Video](https://youtu.be/yznqO0pYEYY) <br/>
-Train Notebook:- [Model Training notebook](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/CustomYolo.ipynb)<br/>
-Yolo Video training:- [Yolo Video annotation](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/YoloVideoPrediction.ipynb)
+Train Notebook:- [Model Training notebook](./CustomYolo.ipynb)<br/>
+Yolo Video training:- [Yolo Video annotation](./YoloVideoPrediction.ipynb)
 
-
-    
-
-### Contributors
-
-| <centre>Name</centre> | <centre>Mail id</centre> |
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    | 
-    
     
 ### References
 Yotube video use [here](https://www.youtube.com/watch?v=Nap8t4s0UjQ)
