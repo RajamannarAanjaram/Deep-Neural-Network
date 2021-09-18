@@ -1,3 +1,2 @@
-# TSAI-Assignment
+Deep Neural Network
 
-EVA-6 Assignments
