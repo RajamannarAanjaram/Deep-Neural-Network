@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 14: DETR: End-to-End Object Detection with Transformers - PART 1
+<h1 align="center">DETR: End-to-End Object Detection with Transformers - PART 1
 <br/>
 <!-- toc -->
     <br>
@@ -103,19 +103,7 @@ Training Metrics
   <img title="Threshold of 0.9" width="400" height="400" src="./images/out09.png">
   <img title="Threshold of 0.7" width="400" height="400" src="./images/out07.png">
 </p>
-    
-### Contributors
 
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-    
-    
-    
 ### Reference
     
 - https://github.com/facebookresearch/detr

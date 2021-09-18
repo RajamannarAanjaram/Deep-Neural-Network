@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 12: The Dawn of Transformers
+<h1 align="center"> The Dawn of Transformers
 <br/>
 
 <!-- toc -->
@@ -122,19 +122,6 @@ Test set: Average loss: 1.1545, Accuracy: 6000/10000 (60%)
 <p align="center">
   <img width="400" height="280" src="./images/out.png">
 <p/>
-
- 
- 
-
-
-### Contributors
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
 
 <!-- toc -->
 ### References

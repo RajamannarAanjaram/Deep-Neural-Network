@@ -1,20 +1,7 @@
 
 <br/>
-<h1 align="center">Session 6 - BATCH NORMALIZATION & REGULARIZATION
+<h1 align="center"> BATCH NORMALIZATION & REGULARIZATION
 <br/>
-
-<!-- toc -->
-## Contributors
-
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |
-
-<!-- toc -->
-
 
 ## Problem Statement
         Implement normalisation (Batch Normalization, Layer Normalization, Group Normalization) and regularization (L1 - Lasso regression) techniques on  MNIST dataset.

@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 8: Advanced training Concepts
+<h1 align="center"> Advanced training Concepts
 <br/>
 <!-- toc -->
     <br>
@@ -11,20 +11,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
-### Contributors
 
-<p align="center"> <b>Team - 6</b> <p>
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
-<!-- toc -->
-    
-Wrapper Class [link](https://github.com/RajamannarAanjaram/EVA-6)
     
 ## Problem Statement
 
@@ -45,9 +32,8 @@ Wrapper Class [link](https://github.com/RajamannarAanjaram/EVA-6)
         4) tensorboard related stuff.
         5) advanced training policies, etc, etc.  
 
-* Name this main repo something, and don't call it Assignment8. This is what you'll import for all the rest of the assignments. Add a proper readme describing all the files.
+### The problem is to build the above training structure. Train ResNet18 on Cifar10 for 20 Epochs.
 
-### **The assignment is to build the above training structure. Train ResNet18 on Cifar10 for 20 Epochs. The assignment must:**
 * Pull your Github code to google colab (don't copy-paste code)
 prove that you are following the above structure
 that the code in your google collab notebook is NOTHING.. barely anything. 
@@ -57,13 +43,12 @@ that the code in your google collab notebook is NOTHING.. barely anything.
   * show loss curves for test and train datasets
   * show a gallery of 10 misclassified images
   * show gradcam output on 10 misclassified images
-  
-Remember if you are applying GradCAM on a channel that is less than 5px, then please don't bother to submit the assignment. 😡🤬🤬🤬🤬
 
 <br>
 <hr>
 <br>
-
+    
+Wrapper Class [link](https://github.com/RajamannarAanjaram/EVA-6)
 
 ## Model training log
   

@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 9: RESNETS AND HIGHER RECEPTIVE FIELDS
+<h1 align="center"> RESNETS AND HIGHER RECEPTIVE FIELDS
 <br/>
 <!-- toc -->
     <br>
@@ -10,19 +10,6 @@
     <br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
-
-### Contributors
-
-<p align="center"> <b>Team - 6</b> <p>
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
-<!-- toc -->
     
 ## Problem Statement
 

@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 7: Advanced Concepts
+<h1 align="center"> Advanced Concepts
 <br/>
 <!-- toc -->
     <br>
@@ -11,18 +11,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
-#### Contributors
-
-<p align="center"> <b>Team - 6</b> <p>
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
-<!-- toc -->
     
 ## Problem Statement 
         
@@ -47,7 +35,7 @@ To achieve 85% accuracy with total Params less than 200k in **`CIFAR10`** datase
 
 ### Model Achitecture:
 
-[iNotebook link](./final_assignment7.ipynb)<br>
+[iNotebook link](./final_notebook.ipynb)<br>
 Model follows `C1C2C3C4` architecture, no maxpooling was performed <br>
 Dilation and stride is performed to reduce the sapatial size of the channels <br>
 The **`Receptive Field`** of the model after performing convolutions are **`147,978`** <br>

@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Session 10: OBJECT LOCALISATION
+<h1 align="center"> OBJECT LOCALISATION
 <br/>
 <!-- toc -->
     <br>
@@ -11,21 +11,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
-### Contributors
-
-<p align="center"> <b>Team - 6</b> <p>
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
-<!-- toc -->
-    
 ## Problem Statement
-This is readme file for Part-2 assignment
+This is readme file for Custom Yolo
 
 1. Download [this](https://canvas.instructure.com/courses/2734471/files/143709949?wrap=1) download file. 
 2. Learn how COCO object detection dataset's schema is. This file has the same schema. You'll need to discover what those number are.
