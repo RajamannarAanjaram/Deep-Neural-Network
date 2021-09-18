@@ -238,12 +238,12 @@ Epochs = 19
 </p>
 
 #### Backpropagation
-[Readme](https://github.com/RajamannarAanjaram/Session4/blob/main/Backpropagation/README.md) - Readme file for Backpropagation<br> 
-[Excel](https://github.com/RajamannarAanjaram/Session4/blob/main/Backpropagation/Backpropagation.xlsx) - Excel file
+[Readme](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Backpropagation%20and%20Architectural%20Basics/Backpropagation/README.md) - Readme file for Backpropagation<br> 
+[Excel](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Backpropagation%20and%20Architectural%20Basics/Backpropagation/Backpropagation.xlsxhttps://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Backpropagation%20and%20Architectural%20Basics/Backpropagation/README.md) - Excel file
 
 #### Architectural Basics
-[Questions Readme](https://github.com/RajamannarAanjaram/Session4/blob/main/Architecture/README.md) - Readme file for Architectural basics<br>
-[Notebook](https://github.com/RajamannarAanjaram/Session4/blob/main/Architecture/assignemnt_4_solutions.ipynb) - Notebook link
+[Questions Readme](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Backpropagation%20and%20Architectural%20Basics/Architecture/README.md) - Readme file for Architectural basics<br>
+[Notebook](https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Backpropagation%20and%20Architectural%20Basics/Architecture/assignemnt_4_solutions.ipynb) - Notebook link
 
 ## Reference Links
 [Kaggle Notebook]( https://www.kaggle.com/enwei26/mnist-digits-pytorch-cnn-99)
