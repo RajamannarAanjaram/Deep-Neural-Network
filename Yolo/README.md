@@ -11,25 +11,13 @@
     <br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
+</h1>
 
-### Contributors
+## Open CV
 
-<p align="center"> <b>Team - 6</b> <p>
-    
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |\\
-
-<!-- toc -->
-
-## Open CV Assignment 
-
-Inference with YOLO was done using OpenCV. The results and details are available in the [README](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Custom/README.md)
+Inference with YOLO was done using OpenCV. The results and details are available in the [README](./Open%20CV/ReadMe.md)
 
 
-## Custom Yolo Training
+## Custom Yolo
 
-The custom YOLO trianing and annotation details can be found in custom section of the repo. The link to the [README](https://github.com/RajamannarAanjaram/TSAI-Assignment/blob/master/11%20Yolo/Open%20CV/ReadMe.md)
+The custom YOLO trianing and annotation details can be found in custom section of the repo. The link to the [README](./Custom/README.md)
