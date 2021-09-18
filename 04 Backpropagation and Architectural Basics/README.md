@@ -2,15 +2,6 @@
 <h1 align="center">Session 4: Backpropagation and Architectural Basics</h1>
 <br/>
 
-## *Contributors*
-
-| <centre>Name</centre> | <centre>Mail id</centre> | 
-| ------------ | ------------- |
-| <centre>Amit Agarwal</centre>         | <centre>amit.pinaki@gmail.com</centre>    |
-| <centre>Pranav Panday</centre>         | <centre>pranavpandey2511@gmail.com</centre>    |
-| <centre>Rajamannar A K</centre>         | <centre>rajamannaraanjaram@gmail.com</centre>    |
-| <centre>Sree Latha Chopparapu</centre>         | <centre>sreelathaemail@gmail.com</centre>    |
-
 > Note: This readme file explains only about the model architecture and its accuracy. Indepth explanation is under each folder for much more neat presentation.
 
 1. # Backpropagation
