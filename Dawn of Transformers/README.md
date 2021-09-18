@@ -12,7 +12,16 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RajamannarAanjaram/)
 
-# Links
+# README links
+<ol>
+ <li>
+  <a href="https://github.com/RajamannarAanjaram/Deep-Neural-Network/blob/master/Dawn%20of%20Transformers/Saptial%20Transformers/README.md"> Spatial Transformer Readme
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/RajamannarAanjaram/Deep-Neural-Network/tree/master/Dawn%20of%20Transformers/Visual%20Transformers#readme"> Visual Transformer Readme
+  </a>
+ </li>
+ 
+ </ol>
 
-Spatial Transformer Readme [link](./Saptial Transformers/README.md)
-Visual Transformer Readme link
