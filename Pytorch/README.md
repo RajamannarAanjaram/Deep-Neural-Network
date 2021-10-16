@@ -172,7 +172,7 @@ Validation Accuracy: 98.11%
   <sup>*The term Gemm means <ins>General matrix multiply</ins></sup>
 <p>  
 <p align="center">
-  <img src="./images/model_structure.jpg" width="350" title="hover text">
+  <img src="./images/MNIST_RandomAddition.png" title="hover text">
 </p>
 
   
